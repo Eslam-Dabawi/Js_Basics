@@ -96,3 +96,13 @@
       //\ Will Repeat You String To Times
     //* .split(sep, limit)
       //\ Will Split Your String By sep To limit Times
+    //* String.substring(startIndex, endIndex)
+      //\ Will Return Slice From `String`
+    //* String.substr(startIndex, lengthOfChars)
+      //\ Will Return Slice From `String`
+    //* String.includes("Something") => Bool
+      //\ Will Check If `String` Include `Something`
+    //* String.startsWith('Something', startIndex) => Bool
+      //\ Will Check If String Starts With `Something` //? And Will Start From startIndex
+    //* String.endsWith('Something') => Bool
+      //\ Will Check If String Ends With `Something`
