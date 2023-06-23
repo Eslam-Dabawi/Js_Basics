@@ -106,3 +106,4 @@
       //\ Will Check If String Starts With `Something` //? And Will Start From startIndex
     //* String.endsWith('Something') => Bool
       //\ Will Check If String Ends With `Something`
+switch 
